@@ -1,0 +1,4 @@
+SISTEMA_TEMPERATURA_NIVEL_BATERIA e SISTEMA_ELETRONICO_COMPLETO
+possuem os arquivos que foram utilizados para desenvolver os es-
+quemáticos do sistema eletrônico do projeto Track Cooler, o
+software utilizado foi o Proteus 8 Professional.
